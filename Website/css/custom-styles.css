@@ -1,0 +1,28 @@
+.social-icons .fa{
+    font-size: 1.5rem;
+    /* border: 1px solid gold; */
+    padding-top: 10px;
+    height: 60px;
+    vertical-align: middle;
+    margin-top: 15px;
+}
+
+#left-vertical-panel
+{
+    border-radius: 0;
+ padding: 5px;
+}
+
+#header{
+    height: 90px;
+    padding: 5px 0 10px 15px;
+    width: 98%;
+}
+
+#footer{
+    padding-left:15px;
+}
+
+.line-title{
+    line-height: 20px !important;
+}
